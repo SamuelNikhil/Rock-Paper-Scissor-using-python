@@ -11,6 +11,8 @@ Features
 - Replay option to keep the fun going
 - Input validation to ensure smooth gameplay
 
+<img width="886" height="543" alt="Python game" src="https://github.com/user-attachments/assets/c9f72cf1-6856-4508-aa2e-3974e1385075" />
+
 How to Run
 ----------
 python rps_game.py -n YourName
